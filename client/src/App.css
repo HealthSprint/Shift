@@ -7,3 +7,9 @@
 .nav{
   background-image: linear-gradient();
 }
+.bg-color{
+  color: #7ED957;
+}
+.font{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

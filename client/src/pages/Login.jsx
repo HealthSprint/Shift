@@ -33,7 +33,7 @@ const Login = () => {
     }
 
     return (
-        <div className='flex custom-background items-center h-screen  bg-blue-100 '>
+        <div className='flex bg-gradient-to-b from-slate-500 to-slate-800 items-center h-screen'>
             <div className=' ml-auto mr-40 flex flex-col justify-center bg-white bg-opacity-90 p-8 items-center border rounded-lg h-[calc(70vh)] w-[calc(60vh)]  shadow-xl  gap-y-3' >
                 <h1 className=' font-bold text-xl mb-5'>Login</h1>
                 <div className=' grid gap-4 w-5/6 '>
